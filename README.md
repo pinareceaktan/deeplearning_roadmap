@@ -1,7 +1,7 @@
 
-# Deep Learning  & Machine Laarning Road Map
+# Deep Learning  & Machine Learning Road Map
 
-In this repo, I will e sharing my deep learning and machine learning resources. 
+>In this repo, I will e sharing my deep learning and machine learning resources. 
 It will also include code tuttorials. 
 I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 
@@ -23,14 +23,14 @@ I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 - - _Conditional Probability_
 - - _Independence and Conditional Independence_
 - - _Expectation, Variance and Covariance_
-- - _ Common Probability Distributions: Bernoulli and Gaussian_ 
+- - _Common Probability Distributions: Bernoulli and Gaussian_ 
 - - _Useful Properties of Common Functions_ 
 - - _Bayes' Rule_
 
 * __Data as a Probability Distribution__
 - -  _Details of Continous Variables_
 - - _Information Theory_
-- - _ Anomalies_
+- - _Anomalies_
 - - _Probabiltcs view data: Simulation_
 
 * __Numerical Computation__
