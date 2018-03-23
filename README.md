@@ -81,7 +81,8 @@ I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 
 * __Deep Learning: Literature, Famous Models and Review__
 - - _CNN_
-- - _Deep Learning: Literature, Famous Models and Review  Pt.2_
+
+* __Deep Learning: Literature, Famous Models and Review  Pt.2__
 - - _LSTM_
 - - _RNN_ 
 
