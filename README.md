@@ -99,13 +99,13 @@ I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 
 # Books
 
-[Deep Learning Book](https://www.deeplearningbook.org )
-[Deeplearning Net](http://deeplearning.net/reading-list/)
-[Neuralnetworks and Deep Learning](neuralnetworksanddeeplearning.com)
+* [Deep Learning Book](https://www.deeplearningbook.org )
+* [Deeplearning Net](http://deeplearning.net/reading-list/)
+* [Neuralnetworks and Deep Learning](neuralnetworksanddeeplearning.com)
 
 
 # Useful Webpages
-[Stanford](http://deeplearning.stanford.edu/tutorial/)
-[Wild ML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
-
+* [Stanford](http://deeplearning.stanford.edu/tutorial/)
+* [Wild ML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Ruder](http://ruder.io/)
 
