@@ -6,7 +6,7 @@ I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 
 ## Learning Road
 
-𐤟_** Basics of Linear Algebra **_
+*_* Basics of Linear Algebra *_
 > _ Scalar, Vectors, Matrices and Tensors  _
 > _ Multipltying Matrices and Inverse_
 > _ Linear Dependence and Span  _
