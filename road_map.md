@@ -6,14 +6,14 @@ I originly use Python 3. Im mostly familiar with TensorFlow and Keras.
 
 ## Learning Road
 
-*_* Basics of Linear Algebra *_
-> _ Scalar, Vectors, Matrices and Tensors  _
-> _ Multipltying Matrices and Inverse_
-> _ Linear Dependence and Span  _
-> _ Special Kinds of Matrcies: Symmetric, Orthogonal _
-> _ Eigen Decomposition _
-> _ Determinant _
-> _ Singular Value Decomposition _
+* ** Basics of Linear Algebra **
+> - Scalar, Vectors, Matrices and Tensors -
+  - Multipltying Matrices and Inverse -
+ - Linear Dependence and Span  -
+ - Special Kinds of Matrcies: Symmetric, Orthogonal -
+ - Eigen Decomposition -
+ - Determinant -
+ - Singular Value Decomposition -
 
 𐤟_** Basics of Probabilty and Information Theory **_
 > _ What's Probabilty have to do with Machine Learning ? _
